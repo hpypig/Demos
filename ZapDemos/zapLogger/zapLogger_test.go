@@ -3,7 +3,10 @@ package zapLogger
 import "testing"
 
 func TestZapDemo(t *testing.T) {
-    ZapDemo()
+    //ZapDemo1()
+    //ZapDemo2()
+    //ZapDemo3()
+    ZapDemo4()
 }
 //{"level":"error",
 //    "ts":1668957704.2193444,
